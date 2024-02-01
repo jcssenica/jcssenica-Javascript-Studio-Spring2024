@@ -21,7 +21,6 @@ body {
 
 p {
     color: aliceblue;
-    font-family: 'Pixelify Sans';
 }
 
 /* .scene {
@@ -40,14 +39,54 @@ iframe {
     
 }
 
-.fullName {
+.fullName{
+    margin-left: -50px;
+}
+.J {
+    font-family: 'Pinyon Script', cursive;
+    position: absolute;
+    margin-top: -20px;
+    font-size: 90px; 
+    margin-left: 340px;
+}
+.fullName1 {
+    font-family: 'Pixelify Sans';
     position: absolute;
     margin-top: -10px;
     font-size: 80px; 
-    margin-left: 350px;
+    margin-left: 400px;
+}
+.Y {
+    font-family: 'Pinyon Script', cursive;
+    position: absolute;
+    margin-top: -20px;
+    font-size: 90px; 
+    margin-left: 700px;
+}
+.fullName2 {
+    font-family: 'Pixelify Sans';
+    position: absolute;
+    margin-top: -10px;
+    font-size: 80px; 
+    margin-left: 765px;
+}
+.C {
+    font-family: 'Pinyon Script', cursive;
+    position: absolute;
+    margin-top: -20px;
+    font-size: 90px; 
+    margin-left: 1030px;
+}
+.fullName3 {
+    font-family: 'Pixelify Sans';
+    position: absolute;
+    margin-top: -10px;
+    font-size: 80px; 
+    margin-left: 1100px;
 }
  
 .className{
+    font-family: 'Pinyon Script', cursive;
     position: absolute;
     margin-left: 60px;
     font-size: 25px;
@@ -55,6 +94,7 @@ iframe {
 }
 
 .school {
+    font-family: 'Pinyon Script', cursive;
     position: absolute;
     margin-left: 60px;
     font-size: 25px;
@@ -62,23 +102,26 @@ iframe {
 }
 
 .Project2 {
+    font-family: 'Pixelify Sans';
     position: absolute;
     font-size: 30px;
     margin-left: 200px;
-    margin-top: 200px;
+    margin-top: 300px;
 
 }
 
 .Project3 {
+    font-family: 'Pixelify Sans';
     position: absolute;
     font-size: 30px;
     margin-left: 700px;
-    margin-top: 550px;
+    margin-top: 570px;
 }
 
 .Project4 {
+    font-family: 'Pixelify Sans';
     position: absolute;
     font-size: 30px;
-    margin-left: 1000px;
-    margin-top: 400px;
+    margin-left: 1020px;
+    margin-top: 450px;
 }
